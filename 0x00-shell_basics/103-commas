@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -adFr
+ls -laFm --group-directories-first
