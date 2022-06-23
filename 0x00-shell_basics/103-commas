@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ampU --group-directories-first .
+ls -ampUr --group-directories-first .
