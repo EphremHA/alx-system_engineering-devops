@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lamF --group-directories-first .
+ls -amp --group-directories-first .
