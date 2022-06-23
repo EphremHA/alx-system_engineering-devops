@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -laFm --group-directories-first
+ls -laFm --group-directories-first --sort
