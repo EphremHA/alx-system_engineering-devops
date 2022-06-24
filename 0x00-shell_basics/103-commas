@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ampUr --group-directories-first .
+ls -pa --format=comma .
