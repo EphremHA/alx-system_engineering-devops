@@ -1,2 +1,2 @@
-Project: 0x02-shell_redirections
+Project: 0x02-shell_redirections\n
 Tasks: 22+
