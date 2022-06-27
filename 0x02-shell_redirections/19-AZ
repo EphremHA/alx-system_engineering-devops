@@ -1,2 +1,2 @@
 #!/bin/bash
-tee "A" "Z" | tee "c" "e"
+tr "A" "Z" | tr "c" "e"
